@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Football\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8879B379-981A-4A0C-BB0E-67382787016F}|Football\\Football.csproj|c:\\users\\test\\onedrive\\desktop\\c# jet\\football\\football\\management\\footballplayermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8879B379-981A-4A0C-BB0E-67382787016F}|Football\\Football.csproj|solutionrelative:football\\management\\footballplayermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8879B379-981A-4A0C-BB0E-67382787016F}|Football\\Football.csproj|c:\\users\\test\\onedrive\\desktop\\c# jet\\football\\football\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8879B379-981A-4A0C-BB0E-67382787016F}|Football\\Football.csproj|solutionrelative:football\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8879B379-981A-4A0C-BB0E-67382787016F}|Football\\Football.csproj|c:\\users\\test\\onedrive\\desktop\\c# jet\\football\\football\\models\\footballplayers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8879B379-981A-4A0C-BB0E-67382787016F}|Football\\Football.csproj|solutionrelative:football\\models\\footballplayers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FootballPlayerManagement.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Football\\Football\\Management\\FootballPlayerManagement.cs",
+              "RelativeDocumentMoniker": "Football\\Management\\FootballPlayerManagement.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Football\\Football\\Management\\FootballPlayerManagement.cs",
+              "RelativeToolTip": "Football\\Management\\FootballPlayerManagement.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwCwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:30:25.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FootballPlayers.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Football\\Football\\Models\\FootballPlayers.cs",
+              "RelativeDocumentMoniker": "Football\\Models\\FootballPlayers.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Football\\Football\\Models\\FootballPlayers.cs",
+              "RelativeToolTip": "Football\\Models\\FootballPlayers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:24:39.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Football\\Football\\Program.cs",
+              "RelativeDocumentMoniker": "Football\\Program.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Football\\Football\\Program.cs",
+              "RelativeToolTip": "Football\\Program.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAmwLEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T12:47:21.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

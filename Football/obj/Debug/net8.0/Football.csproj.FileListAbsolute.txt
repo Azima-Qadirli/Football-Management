@@ -1,0 +1,15 @@
+C:\Users\test\OneDrive\Desktop\c# Jet\Football\Football\bin\Debug\net8.0\Football.exe
+C:\Users\test\OneDrive\Desktop\c# Jet\Football\Football\bin\Debug\net8.0\Football.deps.json
+C:\Users\test\OneDrive\Desktop\c# Jet\Football\Football\bin\Debug\net8.0\Football.runtimeconfig.json
+C:\Users\test\OneDrive\Desktop\c# Jet\Football\Football\bin\Debug\net8.0\Football.dll
+C:\Users\test\OneDrive\Desktop\c# Jet\Football\Football\bin\Debug\net8.0\Football.pdb
+C:\Users\test\OneDrive\Desktop\c# Jet\Football\Football\obj\Debug\net8.0\Football.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\OneDrive\Desktop\c# Jet\Football\Football\obj\Debug\net8.0\Football.AssemblyInfoInputs.cache
+C:\Users\test\OneDrive\Desktop\c# Jet\Football\Football\obj\Debug\net8.0\Football.AssemblyInfo.cs
+C:\Users\test\OneDrive\Desktop\c# Jet\Football\Football\obj\Debug\net8.0\Football.csproj.CoreCompileInputs.cache
+C:\Users\test\OneDrive\Desktop\c# Jet\Football\Football\obj\Debug\net8.0\Football.dll
+C:\Users\test\OneDrive\Desktop\c# Jet\Football\Football\obj\Debug\net8.0\refint\Football.dll
+C:\Users\test\OneDrive\Desktop\c# Jet\Football\Football\obj\Debug\net8.0\Football.pdb
+C:\Users\test\OneDrive\Desktop\c# Jet\Football\Football\obj\Debug\net8.0\Football.genruntimeconfig.cache
+C:\Users\test\OneDrive\Desktop\c# Jet\Football\Football\obj\Debug\net8.0\ref\Football.dll
+C:\Users\test\OneDrive\Desktop\c# Jet\Football\Football\obj\Debug\net8.0\Football.sourcelink.json
